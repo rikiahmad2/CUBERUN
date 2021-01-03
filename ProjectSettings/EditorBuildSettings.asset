@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menu.unity
+    guid: cf893e65f505c17418ccc7382be378f0
+  - enabled: 1
+    path: Assets/Rikigame.unity
+    guid: 84325950fe7f20b4bb9517dcb71873c5
+  - enabled: 1
+    path: Assets/Level02.unity
+    guid: 4fe0ecf0c34d3ca4ca0e7dccdf7cafc3
+  - enabled: 1
+    path: Assets/Credits.unity
+    guid: 0ec2276d079987b4fae48b9352afe6e0
